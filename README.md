@@ -4,9 +4,11 @@ Table of Contents
 -----------------
 
 - [PROBLEM STATEMENT](#problem-statement)
+- [GETTING STARTED](#getting-started)
 - [OUR APPROACH](#our-approach)
 - [!!FEATURES SUGGESTED AFTER PITCH 3.0!!](#features-suggested-by-the-jury-after-pitch-3.0)
 - [BLOCK DIAGRAM](#block-diagram)
+- [OUR UI](#our-ui)
 - [ACCOMPLISHMENTS](#accomplishments)
 - [corgeekies](#corgeekies)
 
